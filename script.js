@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Add installation button click handler
   installButton.addEventListener('click', function() {
       // Replace this URL with your actual Chrome Web Store URL
-      window.location.href = 'https://chrome.google.com/webstore/detail/your-extension-id';
+      window.location.href = 'https://chromewebstore.google.com/detail/mmbhjdgkffdmjhcoanodlgoichkijcpa?utm_source=item-share-cp';
   });
 
   // Add feature list animation
